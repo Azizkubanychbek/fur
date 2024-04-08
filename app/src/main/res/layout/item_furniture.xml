@@ -22,7 +22,7 @@
                 android:id="@+id/image_card"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:src="@drawable/sofa_blu_charm"
+                android:src="@drawable/divan_krovat_spark"
                 android:layout_gravity="center_horizontal"/>
             <LinearLayout
                 android:layout_width="match_parent"

@@ -22,7 +22,7 @@
         android:layout_width="380dp"
         android:layout_height="380dp"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/sofa_beige" />
+        android:src="@drawable/divan_krovat_spark" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -36,7 +36,7 @@
             android:id="@+id/name_card"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Диван  Wella "
+            android:text="Диван  Soft "
             android:textSize="26sp"
             android:textStyle="bold" />
 
@@ -52,7 +52,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="10dp"
-                android:text="1250"
+                android:text="1255"
                 android:textSize="26sp"
                 android:textStyle="bold" />
 

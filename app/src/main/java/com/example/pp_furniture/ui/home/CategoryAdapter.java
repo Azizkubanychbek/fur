@@ -81,9 +81,9 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.ViewHo
 
                         break;
 
-                    case "Юношеские гарнитуры":
-
-                        break;
+//                    case "Юношеские гарнитуры":
+//
+//                        break;
 
                     case "Садовая мебель":
                         navController = Navigation.findNavController((Activity) itemView.getContext(),

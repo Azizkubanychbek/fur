@@ -45,13 +45,13 @@ public class BedRoomFragment extends Fragment {
     }
 
     private void createList() {
-        list_bedroom.add(new FurnitureModel("bed_room","Кровать Red Flame", "1690",
+        list_bedroom.add(new FurnitureModel("bed_room","Кровать Flame", "1690",
                 "Кровать двухспальная размер 2.6м х 2.4м производство Турция," +
-                        " матрас набивной пружинный, кокосовая стружка", R.drawable.bad_red_flame));
-        list_bedroom.add(new FurnitureModel("bed_room","Кровать Red_sunrise", "1100",
+                        " матрас набивной пружинный, кокосовая стружка", R.drawable.bed));
+        list_bedroom.add(new FurnitureModel("bed_room","Кровать Wella", "1100",
                 " производство Италия, размер 2.6м х 2.4м" + " Mario Fabric " + "отделка: натуральнаая кожа  и гобелен," +
                         "набивной, специальный состав"
-                , R.drawable.bed_parlament));
+                , R.drawable.bedd));
         list_bedroom.add(new FurnitureModel("bed_room","Кровать Plot", "1340",
                 " производство Италия, размер 2.2м х 2.15м" + " Riotello " + "отделка: хлопок и гобелен," +
                         "набивной, специальный состав"
@@ -60,13 +60,13 @@ public class BedRoomFragment extends Fragment {
                 " производство Италия, размер 2.2м х 2.4м" + "Mario Fabric " + "отделка: хлопок и атлас," +
                         "набивной, специальный состав"
                 , R.drawable.bad_red_flame));
-        list_bedroom.add(new FurnitureModel("bed_room","Кровать Red Flame", "1690",
+        list_bedroom.add(new FurnitureModel("bed_room","Кровать Flame", "1690",
                 "Кровать двухспальная размер 2.6м х 2.4м производство Турция," +
-                        " матрас набивной пружинный, кокосовая стружка", R.drawable.bad_red_flame));
-        list_bedroom.add(new FurnitureModel("bed_room","Кровать Red_sunrise", "1100",
+                        " матрас набивной пружинный, кокосовая стружка", R.drawable.bed));
+        list_bedroom.add(new FurnitureModel("bed_room","Кровать Wella", "1100",
                 " производство Италия, размер 2.6м х 2.4м" + " Mario Fabric " + "отделка: натуральнаая кожа  и гобелен," +
                         "набивной, специальный состав"
-                , R.drawable.bed_parlament));
+                , R.drawable.bedd));
         list_bedroom.add(new FurnitureModel("bed_room","Кровать Plot", "1340",
                 " производство Италия, размер 2.2м х 2.15м" + " Riotello " + "отделка: хлопок и гобелен," +
                         "набивной, специальный состав"
@@ -74,7 +74,7 @@ public class BedRoomFragment extends Fragment {
         list_bedroom.add(new FurnitureModel("bed_room","Кровать Parlament", "1200",
                 " производство Италия, размер 2.2м х 2.4м" + "Mario Fabric " + "отделка: хлопок и атлас," +
                         "набивной, специальный состав"
-                , R.drawable.bad_red_flame));
+                , R.drawable.bed));
 
     }
 

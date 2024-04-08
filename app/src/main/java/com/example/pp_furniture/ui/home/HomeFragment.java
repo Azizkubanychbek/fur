@@ -39,7 +39,7 @@ public class HomeFragment extends Fragment {
         View root = binding.getRoot();
 
         lotty_sale = binding.lottySale;
-        lotty_sale.setAnimation(R.raw.sale_furn4);
+        lotty_sale.setAnimation(R.raw.furniture);
 
 
         createList();
@@ -51,12 +51,11 @@ public class HomeFragment extends Fragment {
     }
 
     private void createList() {
-        list_category.add(new CategoryModel("Для спальни", R.drawable.bed_parlament));
-        list_category.add(new CategoryModel("Для гостинной",R.drawable.sofa_yellow));
-        list_category.add(new CategoryModel("Кухонная мебель", R.drawable.kuh_furn));
-        list_category.add(new CategoryModel("Юношеские гарнитуры",R.drawable.detskii_garnitur58));
-        list_category.add(new CategoryModel("Садовая мебель", R.drawable.garden_furn));
-        list_category.add(new CategoryModel("Мебель для прихожей",R.drawable.prihozhaya_mebel));
+        list_category.add(new CategoryModel("Для спальни", R.drawable.bed));
+        list_category.add(new CategoryModel("Для гостинной",R.drawable.divan_krovat_spark));
+        list_category.add(new CategoryModel("Кухонная мебель", R.drawable.lagos_kukhnya_3_01));
+        list_category.add(new CategoryModel("Садовая мебель", R.drawable.sad));
+        list_category.add(new CategoryModel("Мебель для прихожей",R.drawable.prichojka));
 
     }
 
