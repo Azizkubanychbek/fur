@@ -24,7 +24,7 @@
       app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             android:orientation="horizontal"
        tools:listitem="@layout/item_category"
-       android:layout_marginTop="10dp"/>
+       android:layout_marginTop="50dp"/>
 
    <androidx.cardview.widget.CardView
        android:id="@+id/sale_card_view"
@@ -37,15 +37,15 @@
       <LinearLayout
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
-          android:background="#E4E7E8"
+          android:background="#8B00FF"
          >
          <TextView
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
-             android:text="Скидки до 60 %  "
+             android:text="мега скидки %"
              android:textStyle="bold"
-             android:textSize="20sp"
-             android:textColor="#1F73B6"
+             android:textSize="40sp"
+             android:textColor="#dfb941"
              android:gravity="center_vertical"
              android:layout_margin="10dp"
 

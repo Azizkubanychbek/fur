@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PP_Furniture"
+rootProject.name = "Saika_fur"
 include(":app")
  

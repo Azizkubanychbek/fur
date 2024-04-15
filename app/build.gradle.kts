@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pp_furniture"
+    namespace = "com.example.Saika_fur"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.pp_furniture"
+        applicationId = "com.example.Saika_fur"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
